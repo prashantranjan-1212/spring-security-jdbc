@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    generate-unique-name: false
+    name: spring-security
+  h2:
+    console:
+      enabled: true
